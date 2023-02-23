@@ -1,0 +1,9 @@
+- créer une app main et l'enregistrer
+- créer une hello_world view
+- créer un dossier templates dans l'app et un fichier html
+- runserver
+- dockerizer (erreur avec allowed host -> démonstration du rebuild)
+- modifier allowed_host
+- app dockerizé fonctionnel
+- Essayer de modifier le hello_world.html --> les modifications ne sont par repercutés sur l'app 
+

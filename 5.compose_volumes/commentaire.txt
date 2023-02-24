@@ -1,6 +1,0 @@
-- construction du docker compose avec explication
-- setup un .env pour illustrer
-- docker hub image postgre
-- set up le settings.py (copier/coller)
-- lancer un shell attaché au docker puis python manage.py shell. et fron django.conf import settings
-- faire une multi-app sans docker compose
